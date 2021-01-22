@@ -5,7 +5,7 @@ Aplicação em Angular 11 com Bootstrap que contém Módulos, Componentes, CRUDE
 Observação.: FIQUE A VONTADE PARA CRIAR/EDITAR/DELETAR TAREFAS e testar como quiser!
 <br>Link para demonstração:
 https://carlosmorais.github.io/Gerenciador-De-Tarefas-com-Angular-11-e-Bootstrap/dist/prod
-<br><a href="https://carlosmorais.github.io/Gerenciador-De-Tarefas-com-Angular-11-e-Bootstrap/dist/prod" target="_blank">![alt text](src/assets/print.png)</a>
+<br><br><a href="https://carlosmorais.github.io/Gerenciador-De-Tarefas-com-Angular-11-e-Bootstrap/dist/prod" target="_blank">![alt text](src/assets/print.png)</a>
 
 
 
